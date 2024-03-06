@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, gaming, hooping,...
 - 🌱 I’m currently doing my Bachelor degree in Software Engineering in Netherlands 🇳🇱
 - 💞️ I’m looking to collaborate on web dev, web app,...
-- 📫 Reach out to me via my LinkedIn: [https://www.linkedin.com/in/minh-pham-487236168/](https://www.linkedin.com/in/minhpham1205/)
+- 📫 Reach out to me via my [LinkedIn](https://www.linkedin.com/in/minhpham1205/)
 
 <a href="https://app.daily.dev/minhpham0"><img src="https://github.com/manhphim/manhphim/blob/main/devcard.svg" width="400" alt="Minh Pham's Dev Card"/></a>
 <!---
