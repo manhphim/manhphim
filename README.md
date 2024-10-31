@@ -34,7 +34,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=manhphim)](https://github.com/manhphim/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhphim&layout=compact&text_color=718096&bg_color=ffffff00)
 
-<a href="https://app.daily.dev/minhpham0"><img src="https://github.com/manhphim/manhphim/blob/main/devcard.svg" width="400" alt="Minh Pham's Dev Card"/></a>
+<a href="https://app.daily.dev/minhpham0"><img src="https://api.daily.dev/devcards/v2/NAEmCxsYqhhKxDxGSAtja.png?r=62f" width="356" alt="Minh Pham's Dev Card"/></a>
 <!---
 manhphim/manhphim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
